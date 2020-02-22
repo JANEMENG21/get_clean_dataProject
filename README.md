@@ -2,6 +2,8 @@
 ## instruction of this repo
 "README.md" is an instruction
 
+"CodeBook.md" indicate all the variables and summaries calculated and any other relevant information.
+
 "run_analysis.R" is the code
 
 "tidydata.txt" is the output of the project

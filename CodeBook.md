@@ -10,7 +10,7 @@ Identifiers
 
 Measurements
 -----------
-tBodyAccMeanX
+ *tBodyAccMeanX
 
 tBodyAccMeanY
 
